@@ -5,5 +5,6 @@ github
 speedtest
 uwmadison
 ||fanqiang.network
+||v2fly.org
 !################Custom List End################
 !---------------------EOF-----------------------
