@@ -4,5 +4,6 @@ github
 ||wisc.edu
 speedtest
 uwmadison
+||fanqiang.network
 !################Custom List End################
 !---------------------EOF-----------------------
