@@ -3,5 +3,6 @@
 github
 ||wisc.edu
 ||speedtest.net
+uwmadison
 !################Custom List End################
 !---------------------EOF-----------------------
