@@ -2,7 +2,7 @@
 !################Custom List Start################
 github
 ||wisc.edu
-||speedtest.net
+speedtest
 uwmadison
 !################Custom List End################
 !---------------------EOF-----------------------
