@@ -6,5 +6,6 @@ speedtest
 uwmadison
 ||fanqiang.network
 ||v2fly.org
+||v2rayssr.com
 !################Custom List End################
 !---------------------EOF-----------------------
