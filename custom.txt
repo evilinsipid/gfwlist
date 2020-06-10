@@ -7,5 +7,6 @@ uwmadison
 ||fanqiang.network
 ||v2fly.org
 ||v2rayssr.com
+||tampermonkey.net
 !################Custom List End################
 !---------------------EOF-----------------------
