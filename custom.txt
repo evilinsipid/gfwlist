@@ -8,5 +8,6 @@ uwmadison
 ||v2fly.org
 ||v2rayssr.com
 ||tampermonkey.net
+||python.org
 !################Custom List End################
 !---------------------EOF-----------------------
