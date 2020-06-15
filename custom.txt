@@ -1,7 +1,7 @@
 
 !################Custom List Start################
 github
-||wisc.edu
+wisc.edu
 speedtest
 uwmadison
 ||fanqiang.network
