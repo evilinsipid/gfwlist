@@ -1,7 +1,7 @@
 
 !################Custom List Start################
 github
-wisc.edu
+||wisc.edu
 speedtest
 uwmadison
 ||fanqiang.network
@@ -10,5 +10,6 @@ uwmadison
 ||tampermonkey.net
 ||python.org
 ||greasyfork.org
+canvas
 !################Custom List End################
 !---------------------EOF-----------------------
