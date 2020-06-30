@@ -14,5 +14,6 @@ canvas
 ||inscloudgate.net
 ||wireshark.org
 ||battle.net
+||blizzard.com
 !################Custom List End################
 !---------------------EOF-----------------------
