@@ -13,5 +13,6 @@ uwmadison
 canvas
 ||inscloudgate.net
 ||wireshark.org
+||battle.net
 !################Custom List End################
 !---------------------EOF-----------------------
