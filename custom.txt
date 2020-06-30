@@ -15,5 +15,6 @@ canvas
 ||wireshark.org
 ||battle.net
 ||blizzard.com
+||chase.com
 !################Custom List End################
 !---------------------EOF-----------------------
