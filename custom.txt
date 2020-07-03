@@ -16,5 +16,6 @@ canvas
 ||battle.net
 ||blizzard.com
 ||chase.com
+||openintro.org
 !################Custom List End################
 !---------------------EOF-----------------------
