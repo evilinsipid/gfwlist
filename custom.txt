@@ -17,5 +17,6 @@ canvas
 ||blizzard.com
 ||chase.com
 ||openintro.org
+||ratemyprofessors.com
 !################Custom List End################
 !---------------------EOF-----------------------
