@@ -19,5 +19,6 @@ canvas
 ||openintro.org
 ||ratemyprofessors.com
 steam
+||spigotmc.org
 !################Custom List End################
 !---------------------EOF-----------------------
